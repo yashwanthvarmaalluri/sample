@@ -26,5 +26,6 @@ class HelloWorld {
         System.out.println(c.getMeAPen(0));
         c.setN(20);
         System.out.println(c.getN());
+        System.out.println("next commit");
     }
 }
