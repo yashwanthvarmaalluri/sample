@@ -27,5 +27,6 @@ class HelloWorld {
         c.setN(20);
         System.out.println(c.getN());
         System.out.println("next commit");
+        System.out.println("next commit");
     }
 }
